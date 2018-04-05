@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+<<<<<<< HEAD
+            "name": "sandbox",            
+=======
+            "name": "cloud",
+>>>>>>> origin/master
+            "startupObjectId": 22
+        }
+    ]
+}
